@@ -1,3 +1,3 @@
 class profile::web {
-included nginx
+included nginx 
 }
